@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there, I'm Nathaniel 👋
 
-<!--
-**NathanielStanley47/NathanielStanley47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Based in South Africa | 💻 Aspiring Cloud & Cybersecurity Professional
 
-Here are some ideas to get you started:
+🚀About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently Learning Cloud Computing (preparing for Microsit AZ-900 Certification)
+- 💻 Proficient in HTML/CSS for web developement
+- 🔧 Exploring C#
+- ☁️ passionate about Cloud Technologies and IT architecture
+- 📚 Always curious about AI/ML, Cybersecurity, multi-cloud Solutions
+
+🛠️Tech Stack
+
+ - Languages: HTML, CSS, C#
+ - Cloud: Microsoft Azure (AZ-900 in progress)
+ - Tools: Visual Studio 2022, GitHub
+
+🎯Goals
+
+ - ✅ Earn Microsoft Certified: Azure Fundamentals (AZ-900)
+ - 📈 Build a Github portfolio showcasing cloud + securing  projects
+ - 🧩 Expand into AI/ML intergration with cloud computing
+
+📫Connect With Me !
+
+LinkedIn: www.linkedin.com/in/nathaniël-stanley-32364538b
+Github: https://github.com/NathanielStanley47
