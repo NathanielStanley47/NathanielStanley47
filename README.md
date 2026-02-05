@@ -26,3 +26,4 @@
 
 LinkedIn: www.linkedin.com/in/nathaniël-stanley-32364538b
 Github: https://github.com/NathanielStanley47
+Gmail: nathanielstanley274@gmail.com
