@@ -7,7 +7,7 @@
 - 🌱 Currently Learning Cloud Computing (preparing for Microsit AZ-900 Certification)
 - 💻 Proficient in HTML/CSS for web developement
 - 🔧 Exploring C#
-- ☁️ passionate about Cloud Technologies and IT architecture
+- ☁️ Passionate about Cloud Technologies and IT architecture
 - 📚 Always curious about AI/ML, Cybersecurity, multi-cloud Solutions
 
 🛠️Tech Stack
