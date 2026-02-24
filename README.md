@@ -1,4 +1,4 @@
-## Hi there, I'm Nathaniel 👋
+## Hi there, I'm Nathaniël 👋
 
 🌍 Based in South Africa | 💻 Aspiring Cloud & Cybersecurity Professional
 
