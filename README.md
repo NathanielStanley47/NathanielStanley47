@@ -4,7 +4,7 @@
 
 🚀About Me
 
-- 🌱 Currently Learning Cloud Computing (preparing for Microsit AZ-900 Certification)
+- 🌱 Currently Learning Cloud Computing (preparing for Microsoft AZ-900 Certification)
 - 💻 Proficient in HTML/CSS for web developement
 - 🔧 Exploring C#
 - ☁️ Passionate about Cloud Technologies and IT architecture
@@ -12,9 +12,9 @@
 
 🛠️Tech Stack
 
- - Languages: HTML, CSS, C#
+ - Languages: HTML, CSS, C#, Dart
  - Cloud: Microsoft Azure (AZ-900 in progress)
- - Tools: Visual Studio 2022, GitHub
+ - Tools: Visual Studio 2022, GitHub,VS Code
 
 🎯Goals
 
